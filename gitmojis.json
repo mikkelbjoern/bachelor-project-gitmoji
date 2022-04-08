@@ -153,6 +153,22 @@
       "semver": null
     },
     {
+      "emoji": "📏",
+      "entity": "&#x1F4CF",
+      "code": ":straight_ruler:",
+      "description": "Work on ruler classification.",
+      "name": "ruler",
+      "semver": null
+    },
+    {
+      "emoji": "🧯",
+      "entity": "&#x1F9EF",
+      "code": ":fire_extinguisher:",
+      "description": "Change factually wrong information in the report.",
+      "name": "fire_extinguisher",
+      "semver": null
+    },
+    {
       "emoji": "🧑‍💻",
       "entity": "&#129489;&#8205;&#128187;",
       "code": ":technologist:",
