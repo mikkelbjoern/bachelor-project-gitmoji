@@ -1,0 +1,164 @@
+{
+  "gitmojis": [
+    {
+      "emoji": "🎨",
+      "entity": "&#x1f3a8;",
+      "code": ":art:",
+      "description": "Make code prettier / cleaner",
+      "name": "art",
+      "semver": null
+    },
+    {
+      "emoji": "🔥",
+      "entity": "&#x1f525;",
+      "code": ":fire:",
+      "description": "Remove code or files.",
+      "name": "fire",
+      "semver": null
+    },
+    {
+      "emoji": "🐛",
+      "entity": "&#x1f41b;",
+      "code": ":bug:",
+      "description": "Fix a bug.",
+      "name": "bug",
+      "semver": "patch"
+    },
+    {
+      "emoji": "🚑️",
+      "entity": "&#128657;",
+      "code": ":ambulance:",
+      "description": "Critical hotfix.",
+      "name": "ambulance",
+      "semver": "patch"
+    },
+    {
+      "emoji": "✨",
+      "entity": "&#x2728;",
+      "code": ":sparkles:",
+      "description": "Write new code",
+      "name": "sparkles",
+      "semver": "minor"
+    },
+    {
+      "emoji": "📝",
+      "entity": "&#x1f4dd;",
+      "code": ":memo:",
+      "description": "Write text for the actual report.",
+      "name": "memo",
+      "semver": null
+    },
+    {
+      "emoji": "🚧",
+      "entity": "&#x1f6a7;",
+      "code": ":construction:",
+      "description": "Work in progress.",
+      "name": "construction",
+      "semver": null
+    },
+    {
+      "emoji": "♻️",
+      "entity": "&#x2672;",
+      "code": ":recycle:",
+      "description": "Reuse code from Stack Overflow or similar.",
+      "name": "recycle",
+      "semver": null
+    },
+    {
+      "emoji": "🔨",
+      "entity": "&#128296;",
+      "code": ":hammer:",
+      "description": "Add or update development scripts.",
+      "name": "hammer",
+      "semver": null
+    },
+    {
+      "emoji": "✏️",
+      "entity": "&#59161;",
+      "code": ":pencil2:",
+      "description": "Fix typos.",
+      "name": "pencil2",
+      "semver": "patch"
+    },
+    {
+      "emoji": "💩",
+      "entity": "&#58613;",
+      "code": ":poop:",
+      "description": "Write bad code or text that needs to be improved.",
+      "name": "poop",
+      "semver": null
+    },
+    {
+      "emoji": "⏪️",
+      "entity": "&#9194;",
+      "code": ":rewind:",
+      "description": "Revert changes.",
+      "name": "rewind",
+      "semver": "patch"
+    },
+    {
+      "emoji": "🔀",
+      "entity": "&#128256;",
+      "code": ":twisted_rightwards_arrows:",
+      "description": "Merge branches.",
+      "name": "twisted-rightwards-arrows",
+      "semver": null
+    },
+    {
+      "emoji": "🚚",
+      "entity": "&#1F69A;",
+      "code": ":truck:",
+      "description": "Move or rename resources (e.g.: files, paths, routes).",
+      "name": "truck",
+      "semver": null
+    },
+    {
+      "emoji": "🍻",
+      "entity": "&#x1f37b;",
+      "code": ":beers:",
+      "description": "Write drunkenly.",
+      "name": "beers",
+      "semver": null
+    },
+    {
+      "emoji": "🙈",
+      "entity": "&#8bdfe7;",
+      "code": ":see_no_evil:",
+      "description": "Add or update a .gitignore file.",
+      "name": "see-no-evil",
+      "semver": null
+    },
+    {
+      "emoji": "⚗️",
+      "entity": "&#128248;",
+      "code": ":alembic:",
+      "description": "Perform experiments.",
+      "name": "alembic",
+      "semver": "patch"
+    },
+    {
+      "emoji": "🧐",
+      "entity": "&#x1F9D0;",
+      "code": ":monocle_face:",
+      "description": "Data exploration/inspection.",
+      "name": "monocle-face",
+      "semver": null
+    },
+    {
+      "emoji": "⚰️",
+      "entity": "&#x26B0;",
+      "code": ":coffin:",
+      "description": "Remove dead code.",
+      "name": "coffin",
+      "semver": null
+    },
+    {
+      "emoji": "🧑‍💻",
+      "entity": "&#129489;&#8205;&#128187;",
+      "code": ":technologist:",
+      "description": "Improve developer experience",
+      "name": "technologist",
+      "semver": null
+    }
+  ]
+}
