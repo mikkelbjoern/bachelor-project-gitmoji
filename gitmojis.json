@@ -169,6 +169,14 @@
       "semver": null
     },
     {
+      "emoji": "🔖",
+      "entity": "&#x1F516",
+      "code": ":bookmark:",
+      "description": "Add or change references.",
+      "name": "bookmark",
+      "semver": null
+    },
+    {
       "emoji": "🧑‍💻",
       "entity": "&#129489;&#8205;&#128187;",
       "code": ":technologist:",
