@@ -183,6 +183,14 @@
       "description": "Improve developer experience",
       "name": "technologist",
       "semver": null
+    },
+    {
+      "emoji": "🧮",
+      "entity": "&#1F9EE",
+      "code": ":abacus:",
+      "description": "Did mathy stuff (especially for writing about math)",
+      "name": "abacus",
+      "semver": null
     }
   ]
 }
