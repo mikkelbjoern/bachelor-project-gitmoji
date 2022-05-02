@@ -191,6 +191,14 @@
       "description": "Did mathy stuff (especially for writing about math)",
       "name": "abacus",
       "semver": null
+    },
+    {
+      "emoji": "🗺️",
+      "entity": "&#F5FA",
+      "code": ":world_map:",
+      "description": "Worked with saliency maps",
+      "name": "world_map",
+      "semver": null
     }
   ]
 }
