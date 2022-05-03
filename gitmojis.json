@@ -199,6 +199,14 @@
       "description": "Worked with saliency maps",
       "name": "world_map",
       "semver": null
+    },
+    {
+      "emoji": "🔎",
+      "entity": "&#1F50E",
+      "code": ":mag_right:",
+      "description": "Did statistics",
+      "name": "mag_right",
+      "semver": null
     }
   ]
 }
