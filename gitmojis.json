@@ -201,6 +201,14 @@
       "semver": null
     },
     {
+      "emoji": "🖍️",
+      "entity": "&#FE0F",
+      "code": ":crayon:",
+      "description": "Proofreading",
+      "name": "crayon",
+      "semver": null
+    },
+    {
       "emoji": "🔎",
       "entity": "&#1F50E",
       "code": ":mag_right:",
